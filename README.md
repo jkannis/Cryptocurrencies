@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-##Overview
+## Overview
 This project processes a cryptocurrency dataset to produce visualizations for use in evaluating new investment possibilities.
 
 - First the data was preprocessed for PCA by removing records with null values and only including currencies that are being traded and have been mined.
